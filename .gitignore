@@ -1,0 +1,4 @@
+#this is where we store files that are not ready to be pushed
+.terraform.lock.hcl
+terraform.tfvars
+.terraform/
